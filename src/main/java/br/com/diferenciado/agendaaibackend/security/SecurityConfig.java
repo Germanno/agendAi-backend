@@ -13,6 +13,7 @@ public class SecurityConfig {
         http.csrf(csrf ->csrf.disable())
                 .authorizeHttpRequests(auth ->{
                     auth.requestMatchers("/alunos/").permitAll();
+                    auth.requestMatchers("/enderecos/").permitAll();
                     auth.anyRequest().authenticated();
                         })
 
