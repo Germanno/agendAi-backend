@@ -1,5 +1,6 @@
 1. Auth User Service (Serviço de Autenticação de Usuário)
   Propósito: Gerenciar o acesso dos usuários ao sistema, incluindo personal trainers e clientes.
+
   Funcionalidades:
     - Registro e login de clientes e personal trainers.
     - Verificação de permissões, como acesso a agendamentos e ao perfil de treino.
@@ -20,7 +21,7 @@
     * Atualização Automática de Disponibilidade
       - Sempre que uma sessão é marcada ou cancelada, a disponibilidade do personal trainer (e, se relevante, do cliente) é atualizada para refletir os horários reservados e os horários livres.
 
-2. Agendamento de Sessões Service (Serviço de Agendamento de Treinos)
+3. Agendamento de Sessões Service (Serviço de Agendamento de Treinos)
   Propósito: Lógica para gerenciar sessões de treino ou aulas individuais.    
   Funcionalidades:
     - Criação, edição e exclusão de sessões de treino (com datas, horários, local, descrição do treino).
@@ -28,7 +29,7 @@
     - Sistema de gerenciamento de sessões em grupo ou individuais, conforme a preferência do cliente e do personal.
     - Informações detalhadas sobre cada sessão, como nível de dificuldade, duração e requisitos.
 
-3. Funções do Estabelecimento Service:
+4. Funções do Estabelecimento Service:
   Propósito: Permitir ao personal trainer ou administrador do sistema cadastrar academias ou locais onde as sessões serão realizadas.
   Funcionalidades:
     - Cadastro e Gerenciamento de Estabelecimentos: Permitir ao personal trainer ou administrador do sistema cadastrar academias ou locais onde as sessões serão realizadas.
