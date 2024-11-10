@@ -39,7 +39,7 @@ ___
 * Sistema de gerenciamento de sessões em grupo ou individuais, conforme a preferência do cliente e do personal;
 * Informações detalhadas sobre cada sessão, como nível de dificuldade, duração e requisitos.
 
-## 3. Funções do Estabelecimento Service:  
+## 3. Funções do Academia Service:  
 
 
 **Propósito:** Permitir ao personal trainer ou administrador do sistema cadastrar academias ou locais onde as sessões serão realizadas.
