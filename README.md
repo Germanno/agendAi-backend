@@ -71,3 +71,6 @@ ___
 * Opção de assinaturas mensais ou semanais para clientes que desejam um plano fixo.
 * Histórico de transações para os clientes e relatórios de receitas para o personal.
 * Integração com provedores de pagamento como PayPal, Stripe ou transferências bancárias.
+
+## Microservices Architecture with Spring AgendaAi
+
